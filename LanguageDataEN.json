@@ -1615,7 +1615,7 @@
       {
         "Key": "SHIELD_HEX_DESC",
         "KeyID": 248370382217113601,
-        "Value": "Gain <b><color=green>{Asset.Value2}</color></b> <tooltip=shield>Shield</tooltip>, but maximum Health <b><color=red><nobr>{Asset.Value1}%</nobr></color></b>."
+        "Value": "Gain <b><color=green>{Asset.Value2}</color></b> <tooltip=shield>Shield</tooltip>, but maximum Health <b><color=red><nobr>{Asset.Value1}%</nobr></color></b>.  Cannot be replaced."
       },
       {
         "Key": "VAMPIRISM_HEX_NAME",
@@ -5435,7 +5435,7 @@
       {
         "Key": "EARLY_ACCESS_MESSAGE",
         "KeyID": 278575787197587456,
-        "Value": "<b>Dear guinea pigs,\n\nWelcome to the early access of Windblown!</b>\n\nBefore diving headfirst, please note that <b>our game is still in development</b>. Some features are missing or incomplete.\n\n<b>Your experience and feedback are crucial for the game's future.</b> We're counting on you to let us know what's not working. We already know there will be bugs that will make you laugh (or cry). But hey, that's the beauty of development, right?\n\nGet ready to dive into the cheerful chaos, and <b>thank you</b> for being part of this adventure with us!\nMotion Twin"
+        "Value": "<b>Dear guinea pigs,\nWelcome to the early access of Windblown!</b>\n\nBefore diving headfirst, please note that <b>our game is still in development</b>. Some features are missing or incomplete.\n\n<b>Your experience and feedback are crucial for the game's future.</b> We're counting on you to let us know what's not working. We already know there will be bugs that will make you laugh (or cry). But hey, that's the beauty of development, right?\n\nGet ready to dive into the cheerful chaos, and <b>thank you</b> for being part of this adventure with us!\n\nMotion Twin"
       },
       {
         "Key": "GIVER_WAITING_FOR_TEAMMATES",
@@ -5596,6 +5596,31 @@
         "Key": "DYNAMICS_QUALITY",
         "KeyID": 299694078167080960,
         "Value": "Dynamics"
+      },
+      {
+        "Key": "FLASHES",
+        "KeyID": 302583418819600384,
+        "Value": "No flashes (UI only)"
+      },
+      {
+        "Key": "FREE",
+        "KeyID": 302590012015480832,
+        "Value": "FREE"
+      },
+      {
+        "Key": "CURSOR_STYLE",
+        "KeyID": 304332659606839296,
+        "Value": "Cursor style"
+      },
+      {
+        "Key": "DASH_AT_CURSOR",
+        "KeyID": 304366120229396480,
+        "Value": "Dash at cursor"
+      },
+      {
+        "Key": "AIM_AT_CURSOR",
+        "KeyID": 305150138965286912,
+        "Value": "Aim at cursor"
       }
     ]
   },

@@ -1615,7 +1615,7 @@
       {
         "Key": "SHIELD_HEX_DESC",
         "KeyID": 248370382217113601,
-        "Value": "Vous gagnez <b><color=green>{Asset.Value2}</color></b> de <tooltip=shield>Bouclier</tooltip>, mais vie maximale <b><color=red><nobr>{Asset.Value1} %</nobr></color></b>."
+        "Value": "Vous gagnez <b><color=green>{Asset.Value2}</color></b> de <tooltip=shield>Bouclier</tooltip>, mais vie maximale <b><color=red><nobr>{Asset.Value1} %</nobr></color></b>. Ne peut pas être remplacé."
       },
       {
         "Key": "VAMPIRISM_HEX_NAME",
@@ -5435,7 +5435,7 @@
       {
         "Key": "EARLY_ACCESS_MESSAGE",
         "KeyID": 278575787197587456,
-        "Value": "<b>Chers cobayes,\n\nBienvenue dans l'accès anticipé de Windblown !</b>\n\nAvant que vous fonciez tête baissée, sachez que <b>notre jeu est en cours de développement</b>. Certaines fonctionnalités sont inachevées ou manquantes.\n\n<b>Votre expérience et vos commentaires sont cruciaux pour l'avenir du jeu.</b> On compte sur vous pour nous signaler tout ce qui cloche. On sait déjà qu'il y aura des bugs qui vous feront rire (ou pleurer). Mais bon, c'est ça, la beauté du développement, non ?\n\nPréparez-vous à plonger dans ce joyeux chaos et <b>merci</b> de faire partie de cette aventure avec nous !\n\nMotion Twin"
+        "Value": "<b>Chers cobayes,\nBienvenue dans l'accès anticipé de Windblown !</b>\n\nAvant que vous fonciez tête baissée, sachez que <b>notre jeu est en cours de développement</b>. Certaines fonctionnalités sont inachevées ou manquantes.\n\n<b>Votre expérience et vos commentaires sont cruciaux pour l'avenir du jeu.</b> On compte sur vous pour nous signaler tout ce qui cloche. On sait déjà qu'il y aura des bugs qui vous feront rire (ou pleurer). Mais bon, c'est ça, la beauté du développement, non ?\n\nPréparez-vous à plonger dans ce joyeux chaos et <b>merci</b> de faire partie de cette aventure avec nous !\n\nMotion Twin"
       },
       {
         "Key": "GIVER_WAITING_FOR_TEAMMATES",
@@ -5596,6 +5596,31 @@
         "Key": "DYNAMICS_QUALITY",
         "KeyID": 299694078167080960,
         "Value": "Dynamique"
+      },
+      {
+        "Key": "FLASHES",
+        "KeyID": 302583418819600384,
+        "Value": "Pas de flashs (Interface seulement)"
+      },
+      {
+        "Key": "FREE",
+        "KeyID": 302590012015480832,
+        "Value": "GRATUIT"
+      },
+      {
+        "Key": "CURSOR_STYLE",
+        "KeyID": 304332659606839296,
+        "Value": "Style de curseur"
+      },
+      {
+        "Key": "DASH_AT_CURSOR",
+        "KeyID": 304366120229396480,
+        "Value": "Dash vers curseur"
+      },
+      {
+        "Key": "AIM_AT_CURSOR",
+        "KeyID": 305150138965286912,
+        "Value": "Visée vers le curseur"
       }
     ]
   },
