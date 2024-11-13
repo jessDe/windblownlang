@@ -5621,6 +5621,11 @@
         "Key": "AIM_AT_CURSOR",
         "KeyID": 305150138965286912,
         "Value": "Aim at cursor"
+      },
+      {
+        "Key": "PLATFORM_LOGIN_STEAM",
+        "KeyID": 305414818243878912,
+        "Value": "Login via <sprite=\"WindBlownIcons\" name=\"Steam\"> Steam"
       }
     ]
   },

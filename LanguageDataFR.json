@@ -5605,7 +5605,7 @@
       {
         "Key": "FREE",
         "KeyID": 302590012015480832,
-        "Value": "GRATUIT"
+        "Value": "OFFERT"
       },
       {
         "Key": "CURSOR_STYLE",
@@ -5621,6 +5621,11 @@
         "Key": "AIM_AT_CURSOR",
         "KeyID": 305150138965286912,
         "Value": "Visée vers le curseur"
+      },
+      {
+        "Key": "PLATFORM_LOGIN_STEAM",
+        "KeyID": 305414818243878912,
+        "Value": "Connexion via <sprite=\"WindBlownIcons\" name=\"Steam\"> Steam"
       }
     ]
   },
